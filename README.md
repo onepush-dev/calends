@@ -2,7 +2,7 @@
 
 Calends — self-hosted subscription & recurring-bill ledger (renewal reminders, multi-currency reports, calendar feeds). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/pkKXVf)
 
 Upstream: [imetn/calends](https://github.com/imetn/calends) (MIT). This repo only wraps the official image
 `ghcr.io/imetn/calends:1.35.0` (app unmodified) as `ghcr.io/onepush-dev/calends:1.35.0`, baking `PORT=8080`,
